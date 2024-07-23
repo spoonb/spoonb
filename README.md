@@ -3,9 +3,7 @@
 
 # TODO
 
-- [ ] Junit-demo完成
 - [ ] OCI入门
-- [ ] Jest-demo开始
 - [ ] DevOps和容器化
 - [ ] 个人的博客静态项目开发
 - [ ] 基本情报资格考试准备
